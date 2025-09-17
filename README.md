@@ -1,7 +1,7 @@
 # Study on the Impact of FDI on Sustainable Development in Sub-Saharan Africa
 
 **Author:** Yu Han  
-**Degree:** Doctor of Philosophy in Economics  
+**Degree:** Economics  
 **Institution:** Jiangxi University of Finance and Economics  
 **Supervisor:** Professor Limeng Zhu  
 **Date:** Nanchang, Dec 2023
